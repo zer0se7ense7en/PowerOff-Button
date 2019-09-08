@@ -15,5 +15,6 @@ Software Setup:
   add 'python /home/pi/shutdown.py &' before exit 0
 
   save 'shutdown.py' in your home directory
+  make it executable by typing 'chmod +x shutdown.py'
 
   reboot
